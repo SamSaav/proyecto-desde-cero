@@ -89,3 +89,11 @@ td{
 .mail{
 	float: right;
 }
+
+.size{
+	width: 150px;
+}
+
+.parent{
+	width: 200px;
+}
